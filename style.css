@@ -487,12 +487,12 @@ html {
     .sliderPrice{
       top: unset;
       bottom: -50;
-      left: 0;
+      left: 30;
       background-color: lightgrey;
     }
   
     .buyButton{
-      right: 0;
+      right: 5;
       top: 0;
     }
   
@@ -557,7 +557,7 @@ html {
     }
   
     .payment{
-      width: 90%;
-      padding: 20px;
+      width: 80%;
+      padding: 10px;
     }
   }
